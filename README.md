@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# hangman
+hangman frontent with Angular 2
+>>>>>>> cff64c1c4aab7f6f037ba505213c7ea62fc6b2fc
